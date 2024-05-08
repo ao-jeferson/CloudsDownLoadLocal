@@ -1,8 +1,10 @@
-Script simples em Python para me ajudar a sincronizar os clouds em que tenho conta, pc local
+#CloudsDownLoadLocal
+
+<strong />Script simples em Python para me ajudar a sincronizar os clouds em que tenho conta, pc local<strong />
 
 <br/>
 
-Simple Python script to help me synchronize the clouds I have an account on, local PC
+<strong >Simple Python script to help me synchronize the clouds I have an account on, local PC<strong />
 
 
 
