@@ -2,3 +2,4 @@ pyicloud
 google-api-python-client
 onedrivesdk
 dropbox
+boxsdk
